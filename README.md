@@ -11,6 +11,8 @@ The above code will require some helper functions that are available at the MICA
 
 The related manuscript (Caciagli et al. _Brain_ 2022) and its Supplementary Material are available at the following link https://academic.oup.com/brain/article-abstract/145/3/807/6550973
 
+Full manuscript details: Caciagli L, Paquola C, He X, Vollmar C, Centeno M, Wandschneider B, Braun U, Trimmel K, Vos SB, Sidhu MK, Thompson PJ, Baxendale S, Winston GP, Duncan JS, Bassett DS, Koepp MJ, Bernhardt BC. "Disorganization of language and working memory systems in frontal versus temporal lobe epilepsy. _Brain_ 2022 May 2:awac150. doi: 10.1093/brain/awac150. Online ahead of print. PMID: 35511160
+
 # Questions
 
 For any queries, please contact Lorenzo Caciagli (https://twitter.com/CaciagliLorenzo)
