@@ -5,4 +5,3 @@ This repository has been created to store code devised for multi-scale functiona
 - Profiling of task-effects along the principal gradient of intrinsic functional connectivity (described in Margulies et al., P.N.A.S. 2016)
 
 The manuscript (Caciagli et al. _Brain_ 2022) and its Supplementary Material are available at the following link https://academic.oup.com/brain/article-abstract/145/3/807/6550973
-__
