@@ -1,4 +1,4 @@
-# Language_WM_FLE_vs_TLE
+# Language and Working Memory in FLE and TLE
 
 This repository has been created to store code devised for multi-scale functional mapping of cognitive fMRI data in people with frontal lobe epilepsy (FLE), temporal lobe epilepsy (TLE) and healthy controls. Specifically, here we provide code in relation to scale 2 and scale 3 of our analysis, namely:
 
@@ -6,6 +6,8 @@ This repository has been created to store code devised for multi-scale functiona
 - Profiling of task-effects along the principal gradient of intrinsic functional connectivity (described in Margulies et al., P.N.A.S. 2016)
 
 There is one example code, looking at verbal working memory data, for both systems-based (FLE_TLE_analysis_code_Yeo_vol_2019_2021_LC_NB.m) and gradient-based (FLE_TLE_analysis_code_Gradient_2019_2021_LC_NB.m) stratification of task effects. An additional display function (FLE_TLE_analysis_code_DisplayGradientData_CTR_NB.m) accompanies gradient code.
+
+The above code will require some helper functions that are available at the MICA lab github page (https://github.com/MICA-MNI/micaopen). Appropriate indications are provided in each code file.
 
 The related manuscript (Caciagli et al. _Brain_ 2022) and its Supplementary Material are available at the following link https://academic.oup.com/brain/article-abstract/145/3/807/6550973
 
