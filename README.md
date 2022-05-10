@@ -4,4 +4,8 @@ This repository has been created to store code devised for multi-scale functiona
 - Quantification of task-related effects across seven canonical functional systems (described in Yeo, Krienen al., J. Neurophysiol 2011)
 - Profiling of task-effects along the principal gradient of intrinsic functional connectivity (described in Margulies et al., P.N.A.S. 2016)
 
-The manuscript (Caciagli et al. _Brain_ 2022) and its Supplementary Material are available at the following link https://academic.oup.com/brain/article-abstract/145/3/807/6550973
+The manuscript (Caciagli et al. _Brain_ 2022; mentorship by Drs. Dani S. Bassett, Matthias J. Koepp and Boris C. Bernhardt) and its Supplementary Material are available at the following link https://academic.oup.com/brain/article-abstract/145/3/807/6550973
+
+# Questions
+
+For any queries, please contact Lorenzo Caciagli (https://twitter.com/CaciagliLorenzo)
